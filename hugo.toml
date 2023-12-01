@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/Amal27052/hugo-site.git'
+languageCode = 'fr-fr'
+title = 'AB portfolio'
+theme = 'ananke'
